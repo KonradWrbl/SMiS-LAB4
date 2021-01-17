@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DroidCafeWithSettings.iml" filepath="$PROJECT_DIR$/.idea/modules/DroidCafeWithSettings.iml" group="DroidCafeWithSettings" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="DroidCafeWithSettings/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DroidCafe.iml" filepath="$PROJECT_DIR$/.idea/modules/DroidCafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.iml" />
     </modules>
   </component>
 </project>

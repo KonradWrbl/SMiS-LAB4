@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Documents\\studia\\r3s1\\SMiS\\lab4_Joanna_Wytrzes_160816_F3T_L7\\DroidCafeWithSettings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "D:\\Semestr 5\\SMiS\\lab4\\DroidCafe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\joann\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\071cca0f365ebabb844fe62323f897a4\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\Konrad\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b937bfebaa90153dea38f1ccef53de89\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

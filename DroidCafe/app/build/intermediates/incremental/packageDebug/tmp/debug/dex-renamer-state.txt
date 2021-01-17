@@ -1,4 +1,4 @@
-#Wed Nov 25 08:54:32 CET 2020
-base.0=D\:\\Documents\\studia\\r3s1\\SMiS\\lab4_Joanna_Wytrzes_160816_F3T_L7\\DroidCafeWithSettings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sun Jan 17 17:48:36 CET 2021
+base.0=D\:\\Semestr 5\\SMiS\\lab4\\DroidCafe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
